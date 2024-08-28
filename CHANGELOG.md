@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.1
+
+- bump intl from 0.18.0 to 0.19.0
+
 ## 1.2.0
 
 - bump package and dart versions
